@@ -19,7 +19,9 @@ return {
   },
   
 -- Anime Bodypillows
-  bodypillow_director ={
+  bodypillow_director = {
+    "You look at the back of the pillow. She looks back at you. You decide that you're probably the one who should be embarrassed.",
+    "
   },
   bodypillow_policegirl = {
     "She gives the impression of someone who might love cannons.",
@@ -27,7 +29,11 @@ return {
     "After looking the character depicted on the pillow up and and down, you ask yourself. 'Would being put in a hold by her really be all that bad?'",
     "A quick peek at the degeneracy depicted on the back of the pillow is enough to convince you that this is a psychological hazard."
   },
-  bodypillow_slime ={
+  bodypillow_slime = {
+    "On the front, she's already depicted in a suggestive pose, and all she seems to be wearing is a blue, fur-trimmed winter coat. She's giving you a look... Even the slime looks embarassed.",
+    "There's a luster to the character's hair that gives you a pang of jealousy in this cruel, abandoned world. Wouldn't a shower be so nice...?"
+    "The character has an oddly friendly expression. You get the feeling she'd be easy to get along with.",
+    "The little blue slime on the front is almost cute enough to make you forget that slimes are usually something you don't want touching you.",
   },
   
 -- Non-Anime Bodypillows
