@@ -8,6 +8,9 @@ return {
     "You examine the plushie closely. Its surface is covered in soft fabric, with the characteristic appearance of a slime creature.",
     "You squeeze the plushie for a moment. It's soft, yielding, and oddly satisfying to hold. No melting!"
   },
+    plushie_skeleton = {
+    "You can feel the words leaving your throat with force... 'S-Sasuga!'         ...What?",
+  },
   sword_plushie = {
     "Light, yet firm. Unfortunately, nothing can be done about the weight imbalance in this state. Still good for a pillow fight, though!", 
     "*Shkriiiip!* Despite the prehensile appearance of the sword tassel gripping the scabbard, it's the sound of two velcro patches tearing that tells you the blade is released.",
