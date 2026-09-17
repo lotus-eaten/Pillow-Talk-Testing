@@ -10,6 +10,7 @@ return {
   },
   plushie_skeleton = {
     "You can feel the words leaving your throat with force... 'S-Sasuga!'         ...What?",
+    "You find a 1000 year plan in the red flames that are his eyes.",
   },
   sword_plushie = {
     "Light, yet firm. Unfortunately, nothing can be done about the weight imbalance in this state. Still good for a pillow fight, though!", 
