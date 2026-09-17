@@ -1,0 +1,18 @@
+[
+  {
+    "type": "item_group",
+    "id": "bedroom",
+    "subtype": "distribution",
+    "entries": [
+      { "group": "huggables", "prob": 2 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "bed",
+    "subtype": "distribution",
+    "entries": [
+      {"group": "huggables", "prob": 2 }
+    ]
+  }
+]
