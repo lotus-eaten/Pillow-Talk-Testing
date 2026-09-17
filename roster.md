@@ -4,12 +4,16 @@ Slime - Rimuru, Slime Form (Tensei Shitara)
 
 Sword - Honedge-inspired (Pokemon)
 
+Skeleton - Ainz Ooal Gown (Overlord)
+
 ### Bodypillows
-Slime - Rimuru (Tensei Shitara)
+Slime Demon Lord - Rimuru (Tensei Shitara)
 
 Police Girl - Police Girl (Hellsing)
 
 Operations Director - Misato Katsuragi (Neon Genesis)
+
+Spider Body Pillow - 
 
 ### Meme Bodypillows
 Shabby Janitor - Scruffy (Futurama)
@@ -20,7 +24,7 @@ Stealthy Mercenary - Solid Snake (MGS)
 
 # Possible or Planned
 ### Plushies
-Skeletal Sorceror King - Ainz Ooal Gown (Overlord)
+...
 
 ### Bodypillows
 Fierce Mech Pilot - Asuka Langley Soryu (Neon Genesis)
@@ -34,3 +38,5 @@ Ice Lich - Darkness (Konosuba)
 Lady Crusader - Wiz (Konosuba)
 
 Blue Vocaloid - Hatsune Miku
+
+White Spider - Kumoko (So I'm a Spider, So What?)
