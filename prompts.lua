@@ -9,8 +9,9 @@ return {
     "You squeeze the plushie for a moment. It's soft, yielding, and oddly satisfying to hold. No melting!"
   },
   plushie_skeleton = {
-    "You can feel the words leaving your throat with force... 'S-Sasuga!'         ...What?",
-    "You find a 1000 year plan in the red flames that are his eyes.",
+    "You can feel the words leaving your throat with force... 'S-Sasuga!'         ...Huh?",
+    "A 1000 year plan. His gaze burns with the wisdom of infallible strategy, near omniscience.",
+    "Are you attracted to bones?"
   },
   sword_plushie = {
     "Light, yet firm. Unfortunately, nothing can be done about the weight imbalance in this state. Still good for a pillow fight, though!", 
