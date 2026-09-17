@@ -33,7 +33,7 @@ return {
     "On the front, she's already depicted in a suggestive pose, and all she seems to be wearing is a blue, fur-trimmed winter coat. She's giving you a look... Even the slime looks embarassed.",
     "There's a luster to the character's hair that gives you a pang of jealousy in this cruel, abandoned world. Wouldn't a shower be so nice...?",
     "The character has an oddly friendly expression. You get the feeling she'd be easy to get along with.",
-    "The little blue slime on the front is almost cute enough to make you forget that doing the same thing in this world might leave you with melted fingers.",
+    "The little blue slime on the front is almost cute enough to make you forget that doing the same thing in real life might leave you with melted fingers.",
   },
   
 -- Non-Anime Bodypillows
